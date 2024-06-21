@@ -8,3 +8,4 @@ Para ejecutar el sistemas debes colocar :
 npm react install
 ```
 
+### Actualiza el readme 

@@ -3,6 +3,7 @@
 - Estado del proyecto: En construcción.
 
 Para ejecutar el sistemas debes colocar :
+
 ```sh
 npm react install
 ```
